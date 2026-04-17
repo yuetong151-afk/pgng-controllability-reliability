@@ -1,7 +1,4 @@
-# pgng-controllability-reliability
-
-# Test-Retest Reliability of a Pavlovian Go/No-Go Task 
-# with a Controllability Manipulation
+# Test-Retest Reliability of a Pavlovian Go/No-Go Task with a Controllability Manipulation
 
 Analysis code for BSc dissertation, King's College London (2026).
 
