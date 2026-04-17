@@ -9,6 +9,7 @@ reliability of behavioural and computational measures extracted
 from a modified Pavlovian Go/No-Go (PGNG) task.
 
 ## Notebooks
+- `00_ParameterRecovery.ipynb`: Parameter recovery analyses and model identifiability checks
 - `01_Demographic.ipynb`: Demographic characteristics and task appraisals
 - `02_Descriptive.ipynb`: Behavioural analyses and model-free reliability
 - `03_Modeling.ipynb`: Computational modelling and parameter reliability
